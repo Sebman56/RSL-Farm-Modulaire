@@ -1,2 +1,2 @@
 # RSL-Farm-Modulaire
-Calcul de farmage dans Raid Shadow Legend
+Calcul de farmage dans le jeu Raid Shadow Legend
